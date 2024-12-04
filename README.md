@@ -1,6 +1,10 @@
-<<<<<<< HEAD
+
 # E-voting-using-Ethereum-Blockchain
 =======
+
+The decentralized application interacts with the smart contract to provide a dependable and efficient voting atmosphere, while Metamask guarantees secure transactions that need confirmation before they can move forward. The backend, built with Node.js, manages the storage and retrieval of IPFS voting information, ensuring a reliable and effective voting environment.
+
+
 # React Truffle Box
 
 This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.
